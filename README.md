@@ -4,7 +4,7 @@
 
 It was a CTF challenge in ECSC 2017 competition (Greek Q_Round)...
 
-Category: Stagano challenges
+Category: Stegano challenges
 
 
 ---- Running ----
